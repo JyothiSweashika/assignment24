@@ -1,0 +1,11 @@
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\bin\Debug\assignment24-1.exe.config
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\bin\Debug\assignment24-1.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\bin\Debug\assignment24-1.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\bin\Debug\assignment24lib.dll
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\bin\Debug\assignment24lib.pdb
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\obj\Debug\assignment24-1.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\obj\Debug\assignment24-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\obj\Debug\assignment24-1.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\obj\Debug\assignment24-1.csproj.CopyComplete
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\obj\Debug\assignment24-1.exe
+C:\Users\91849\OneDrive\Desktop\ASSIGNMENTS\assignment24-1\assignment24-1\obj\Debug\assignment24-1.pdb
